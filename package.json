@@ -1,0 +1,24 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Simple bookstore app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express":"*",
+    "body-parser":"*",
+    "mongoose":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavan288/bookstore-api.git"
+  },
+  "author": "Pavan Powani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavan288/bookstore-api/issues"
+  },
+  "homepage": "https://github.com/pavan288/bookstore-api#readme"
+}
